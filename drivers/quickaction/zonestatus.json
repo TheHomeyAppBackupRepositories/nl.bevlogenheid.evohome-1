@@ -1,0 +1,125 @@
+{
+    "locationId": "5491093",
+    "gateways": [
+      {
+        "gatewayId": "5215223",
+        "temperatureControlSystems": [
+          {
+            "systemId": "7149418",
+            "zones": [
+              {
+                "zoneId": "7149410",
+                "temperatureStatus": {
+                  "temperature": 21.5,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 20.5,
+                  "setpointMode": "FollowSchedule"
+                },
+                "name": "Woonkamer"
+              },
+              {
+                "zoneId": "7149411",
+                "temperatureStatus": {
+                  "temperature": 19,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 19,
+                  "setpointMode": "PermanentOverride"
+                },
+                "name": "Badkamer"
+              },
+              {
+                "zoneId": "7149412",
+                "temperatureStatus": {
+                  "temperature": 20,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 20,
+                  "setpointMode": "FollowSchedule"
+                },
+                "name": "Juniper"
+              },
+              {
+                "zoneId": "7149413",
+                "temperatureStatus": {
+                  "temperature": 19,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 15,
+                  "setpointMode": "PermanentOverride"
+                },
+                "name": "Milano"
+              },
+              {
+                "zoneId": "7149414",
+                "temperatureStatus": {
+                  "temperature": 20,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 15,
+                  "setpointMode": "FollowSchedule"
+                },
+                "name": "Slaapkamer"
+              },
+              {
+                "zoneId": "7149415",
+                "temperatureStatus": {
+                  "temperature": 19.5,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 19,
+                  "setpointMode": "FollowSchedule"
+                },
+                "name": "Renzo"
+              },
+              {
+                "zoneId": "7149416",
+                "temperatureStatus": {
+                  "temperature": 19.5,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 19,
+                  "setpointMode": "PermanentOverride"
+                },
+                "name": "Werkkamer"
+              },
+              {
+                "zoneId": "7149417",
+                "temperatureStatus": {
+                  "temperature": 18,
+                  "isAvailable": true
+                },
+                "activeFaults": [],
+                "setpointStatus": {
+                  "targetHeatTemperature": 15,
+                  "setpointMode": "PermanentOverride"
+                },
+                "name": "Garage"
+              }
+            ],
+            "activeFaults": [],
+            "systemModeStatus": {
+              "mode": "Auto",
+              "isPermanent": true
+            }
+          }
+        ],
+        "activeFaults": []
+      }
+    ]
+  }
